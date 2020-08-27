@@ -1,2 +1,2 @@
-# Javascript
-Javascript 基础知识与练习
+# JavaScript
+JavaScript 基础知识与练习
